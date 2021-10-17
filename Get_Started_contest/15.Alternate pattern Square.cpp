@@ -26,6 +26,6 @@ int main(void)
 	cout<<"\n";
 
 
-}
+     }
 }
 
